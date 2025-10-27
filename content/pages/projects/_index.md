@@ -14,7 +14,7 @@ This course makes use of Athena, MIT's UNIX-based computing environment. OCW doe
 
 Recitation slides are courtesy of course TA Jason Ansel, and are used with permission.
 
-These projects require [Java](https://www.oracle.com/java/technologies/downloads/), [Ant](http://ant.apache.org/), and [GCC](http://gcc.gnu.org/). This document describes what you will need to know about Athena and Java tools for 6.035: ({{% resource_link "f6561f80-7dd5-6e92-8fcf-cd3961da42c3" "PDF" %}})
+These projects require {{% resource_link "aa459e4d-db76-41bc-8de3-a4628dae3968" "Java" %}}, {{% resource_link "426c94f9-96a8-4e2f-ab6b-156d39ad5220" "Ant" %}}, and {{% resource_link "9b0210a6-4e9a-4ac1-bbe7-af8070142116" "GCC" %}}. This document describes what you will need to know about Athena and Java tools for 6.035: ({{% resource_link "f6561f80-7dd5-6e92-8fcf-cd3961da42c3" "PDF" %}})
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 PROJECT #
